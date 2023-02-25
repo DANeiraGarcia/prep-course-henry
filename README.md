@@ -1,2 +1,1 @@
-# prep-course-henry
-Este es un Repositorio modo de prueba del modulo 2 henry
+este proyecto es una prueba de como crear un repositorio y como clonarlo desde git hub a mi computador
